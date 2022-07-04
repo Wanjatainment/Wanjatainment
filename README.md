@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wanjatainment
+- 👋 Hi, I’m @OneJar
 - 👀 Newbie here: enroute Data Science/Analysis Career 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate when I get there

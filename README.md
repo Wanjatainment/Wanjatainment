@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wanjatainment
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on ...Projects in AI & Data Analysis
+- 👀 Newbie here: enroute Data Science/Analysis Career 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate when I get there
 - 📫 How to reach me ...wanjaajanet@gmail.com
 
 
